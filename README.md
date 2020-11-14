@@ -4,4 +4,4 @@ An Apache Kafka pub/sub cluster with Zookeeper running in Docker-Compose. Done a
 
 ## Instructions
 
-Instructions on how to run the Apache Kafka cluster and test for successful failure management can be found in instructions.pdf (coming soon).
+Instructions on how to run the Apache Kafka cluster and test for successful failure management can be found in instructions.pdf.
